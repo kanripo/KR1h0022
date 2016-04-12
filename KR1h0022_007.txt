@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 癸巳孟子說
-#+DATE: 2016-04-12 13:59:55.270229
+#+DATE: 2016-04-12 13:59:55.698021
 #+PROPERTY: ID KR1h0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR1h0022_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -1633,7 +1633,7 @@
 學者以寡欲爲要則當存飬擴充由寡欲以至於無¶
 欲則其清明髙逺者爲無窮矣¶
 ¶
-　　曽晳嗜羊&KR0037;而曽子不忍食羊棗公孫丑問曰膾炙與¶
+　　曽晳嗜羊棗而曽子不忍食羊棗公孫丑問曰膾炙與¶
 羊棗孰美孟子曰膾炙哉公孫丑曰然則曽子何爲食¶
 <pb:KR1h0022_WYG_007-82b>¶
 膾炙而不食羊棗曰膾炙所同也羊棗所獨也諱名不¶
